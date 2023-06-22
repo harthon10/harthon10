@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Hello! My name is Harthon Wint, and I'm a software engineer with expertise in API’s and full-stack development.
-
-
+Hello! My name is Harthon Wint, during my apprenticeship with Multiverse and Citizens Bank I have gained a lot of technical experience as well as sharpened my technical skills. I've learned the latest industry tools and technologies and some of the projects pinned display those teachings. 
 
 
 
