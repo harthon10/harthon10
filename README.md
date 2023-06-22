@@ -8,8 +8,6 @@ Hello! My name is Harthon Wint, and I'm a software engineer with expertise in AP
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harthon10&label=Profile%20views&color=0e75b6&style=flat" alt="harthon10" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -20,5 +18,3 @@ Hello! My name is Harthon Wint, and I'm a software engineer with expertise in AP
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harthon10&show_icons=true&locale=en&layout=compact" alt="harthon10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harthon10&show_icons=true&locale=en" alt="harthon10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harthon10&" alt="harthon10" /></p>
