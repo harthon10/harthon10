@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hello! My name is Harthon Wint, during my apprenticeship with Multiverse and Citizens Bank I have gained a lot of technical experience as well as sharpened my technical skills. I've learned the latest industry tools and technologies and some of the projects pinned display those teachings. 
+Hello! My name is Harthon Wint, during my apprenticeship with Multiverse and Citizens Bank I have gained a lot of technical experience as well as sharpened my technical skills. Java is the primary language used by my team at citizens so I've been learning how to program in that language. Since picking up java I've written unit test cases for api’s, worked on integrating vault with the current api’s my team handles and connected with people from different departments to help complete projects. Some of the skills I've acquired throughout the apprenticeship are displayed through the link below. 
+
+https://github.com/harthon10?tab=repositories
 
 
 
